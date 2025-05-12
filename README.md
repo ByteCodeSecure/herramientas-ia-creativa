@@ -15,7 +15,7 @@ Un conjunto de tres aplicaciones de escritorio modernas para generar contenido m
 
 ## 🎵 Generador de Audio
 
-![Audio App Screenshot](https://i.ibb.co/whKcPtfR/placeholder-audio-png.jpg)
+![Audio App Screenshot](./assets/images/placeholder-audio-png.jpg)
 
 ### ✨ Características
 
@@ -46,7 +46,7 @@ Esta aplicación utiliza la API de ElevenLabs, líder en síntesis de voz de alt
 
 ## 🖼️ Generador de Imágenes
 
-![Image App Screenshot](https://i.ibb.co/Z6RzXvKz/placeholder-image-png.jpg)
+![Image App Screenshot](./assets/images/placeholder-image-png.jpg)
 
 ### ✨ Características
 
@@ -76,7 +76,7 @@ Esta aplicación utiliza el modelo FLUX.1-schnell a través de la API de Hugging
 
 ## 🎬 Generador de Video
 
-![Video App Screenshot](https://i.ibb.co/TMcbrF3V/placeholder-video-png.jpg)
+![Video App Screenshot](./assets/images/placeholder-video-png.jpg)
 
 ### ✨ Características
 
